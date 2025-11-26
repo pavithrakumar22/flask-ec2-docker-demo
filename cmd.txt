@@ -1,3 +1,5 @@
+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
+
 K8
 
 
@@ -184,5 +186,6 @@ in "Default Triggers" - enable
 Project Recipient List Add recipient email addresses (comma-separated)
 Content Type -  Default (text/plain) or text/html
 Triggers -  Select events (e.g., Failure, Success, etc.)
+
 
 9. Click ok and go to gmail for checking after building
